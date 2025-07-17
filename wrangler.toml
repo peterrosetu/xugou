@@ -7,7 +7,7 @@ minify = true # 生产环境压缩代码
 
 # 设置自定义域名
 routes = [
-  { pattern = "xugou.mdzz.uk", custom_domain = true },
+  { pattern = "66996969.com", custom_domain = true },
   { pattern = "api.xugou.mdzz.uk", custom_domain = true }
 ]
 
@@ -18,7 +18,7 @@ crons = ["* * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "xugou_db"
-database_id = "32a2ca5f-3a77-4b08-965e-804612557880"
+database_id = "7cbb7628-2b45-4be4-af32-c42ef8c0ce80"
 
 [assets]
 binding = "ASSETS"
